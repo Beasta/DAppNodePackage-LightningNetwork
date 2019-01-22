@@ -1,7 +1,7 @@
 version: '3.4'
 services:
     ln.dnp.dappnode.eth:
-        image: 'ln.dnp.dappnode.eth:0.1.1'
+        image: 'ln.dnp.dappnode.eth:0.1.2'
         build: ./build
         volumes:
             - 'lndconfig_data:/root/.lnd/'

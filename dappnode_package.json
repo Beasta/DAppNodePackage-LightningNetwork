@@ -1,13 +1,13 @@
 {
   "name": "ln.dnp.dappnode.eth",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The Lightning Network DAppNodePackage (lnd + lncli-web).The Lightning Network is a decentralized system for instant, high-volume micropayments that removes the risk of delegating custody of funds to trusted third parties.",
   "avatar": "/ipfs/QmVrjV1ANxjYVqRJzycYKcCUAH8nU337UsMVir1CnZYNa8",
   "type": "service",
   "image": {
-    "path": "ln.dnp.dappnode.eth_0.1.0.tar.xz",
-    "hash": "/ipfs/QmZnp9AHJgXr1P6jZW5fBjDTSH4ZncXdmEHRsxUL7KH8wj",
-    "size": 52098182,
+    "path": "",
+    "hash": "",
+    "size": "",
     "ports": [
       "9735:9735"
     ],
